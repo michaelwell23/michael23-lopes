@@ -23,12 +23,13 @@
 |  #  | Project                                                                                                                   |  |
 | :-: | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | 01  | [PROJETO 10 (HTML E CSS)](https://github.com/michael23-lopes/Projeto-10-Paginas-responsivas)                       |      |
-| 01  | [PROJETOS HTML E CSS 2](https://github.com/michael23-lopes/Projetos-HTML-CSS-Jascript)                       |         |
-| 01  | [CALCULADORA REACT](https://github.com/michael23-lopes/Curso-React-Redux-Fundamentos/tree/main/novos-projetos/calculadora)                       |         |
-| 01  | [PROJETO MONTERS ROLODEX](https://github.com/michael23-lopes/projeto-monsters-rolodex)                       |         |
-| 01  | [PROBLEMA DE MONTY HALL](https://github.com/michael23-lopes/curso-web-moderno-completo-com-javaScript/tree/main/curso-web-moderno-completo-com-javaScript/vue/montyhall)                       |         |
-| 01  | [TODO LIST](https://github.com/michael23-lopes/Curso-React-Redux-Fundamentos/tree/main/todo-app)                       |         |
-| 01  | [CRUD EM REAC](https://github.com/michael23-lopes/Curso-React-Redux-Fundamentos/tree/main/novos-projetos/crud)                       |         |
-| 01  | [RECONHECIMENTO DE ROSTO](https://github.com/michael23-lopes/smart-brain-app)                       |         |
-| 01  | [MY MONEY](https://github.com/michael23-lopes/projeto-react-My-Money)                       |         |
-| 01  | [PROJETO BASE DE CONHECIMENTO](https://github.com/michael23-lopes/Projeto-knowledge-base)                       |         |
+| 02  | [PROJETOS HTML E CSS 2](https://github.com/michael23-lopes/Projetos-HTML-CSS-Jascript)                       |         |
+| 03  | [CALCULADORA REACT](https://github.com/michael23-lopes/Curso-React-Redux-Fundamentos/tree/main/novos-projetos/calculadora)                       |         |
+| 04  | [PROJETO MONTERS ROLODEX](https://github.com/michael23-lopes/projeto-monsters-rolodex)                       |         |
+| 05  | [PROBLEMA DE MONTY HALL](https://github.com/michael23-lopes/curso-web-moderno-completo-com-javaScript/tree/main/curso-web-moderno-completo-com-javaScript/vue/montyhall)                       |         |
+| 06  | [TODO LIST](https://github.com/michael23-lopes/Curso-React-Redux-Fundamentos/tree/main/todo-app)                       |         |
+| 07  | [CRUD EM REAC](https://github.com/michael23-lopes/Curso-React-Redux-Fundamentos/tree/main/novos-projetos/crud)                       |         |
+| 08  | [RECONHECIMENTO DE ROSTO](https://github.com/michael23-lopes/smart-brain-app)                       |         |
+| 09  | [MY MONEY](https://github.com/michael23-lopes/projeto-react-My-Money)                       |         |
+| 10  | [PROJETO BASE DE CONHECIMENTO](https://github.com/michael23-lopes/Projeto-knowledge-base)                       |         |
+| 11  | [E-COMMERCE (EM DESENVOLVIMENTO)](https://github.com/michael23-lopes/crwn-clothing)                       |         |
