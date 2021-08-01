@@ -14,7 +14,6 @@
   <a href="https://portfoliomichaelwell.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-FF4040?style=for-the-badge&logo=appveyor&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/michaelwellingtonlopes" target="_blank"><img src="https://img.shields.io/badge/facebook-7289DA?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/michaelwellingtonlopes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:michael23.wellington@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/michael-wellington-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br/>
