@@ -1,6 +1,8 @@
-# Michael Wellington Lopes
+# Michael Wellington Lopes,
+Apaixonado por tecnologia, programação e aprendizado. 
+
  
-### "Não podemos chegar as profundezas do mar da programação, mas quanto mais alcançamos, quanto mais fundo chegamos, maiores serão as nossas experiências. Essa é a arte de se desafiar e crescer mais e mais a cada dia". 
+##### "Não podemos chegar as profundezas do mar da programação, mas quanto mais alcançamos, quanto mais fundo chegamos, maiores serão as nossas experiências. Essa é a arte de se desafiar e crescer mais e mais a cada dia". 
 
 <br/>
 
