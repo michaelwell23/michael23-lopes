@@ -31,7 +31,10 @@ Apaixonado por tecnologia, programação e aprendizado.
 | 05  | [PROBLEMA DE MONTY HALL](https://github.com/michael23-lopes/curso-web-moderno-completo-com-javaScript/tree/main/curso-web-moderno-completo-com-javaScript/vue/montyhall)                       |         |
 | 06  | [TODO LIST](https://github.com/michael23-lopes/Curso-React-Redux-Fundamentos/tree/main/todo-app)                       |         |
 | 07  | [CRUD EM REACT](https://github.com/michael23-lopes/Curso-React-Redux-Fundamentos/tree/main/novos-projetos/crud)                       |         |
-| 08  | [RECONHECIMENTO DE ROSTO](https://github.com/michael23-lopes/smart-brain-app)                       |         |
-| 09  | [MY MONEY](https://github.com/michael23-lopes/projeto-react-My-Money)                       |         |
-| 10  | [PROJETO BASE DE CONHECIMENTO](https://github.com/michael23-lopes/Projeto-knowledge-base)                       |         |
-| 11  | [E-COMMERCE (EM DESENVOLVIMENTO)](https://github.com/michael23-lopes/crwn-clothing)                       |         |
+| 08  | [Mini Saga](https://github.com/michael23-lopes/Projeto-Saga)                       |         |
+| 09  | [RECONHECIMENTO DE ROSTO](https://github.com/michael23-lopes/smart-brain-app)                       |         |
+| 10  | [MY MONEY](https://github.com/michael23-lopes/projeto-react-My-Money)                       |         |
+| 11  | [PROJETO BASE DE CONHECIMENTO](https://github.com/michael23-lopes/Projeto-knowledge-base)                       |         |
+| 12  | [E-COMMERCE (EM DESENVOLVIMENTO)](https://github.com/michael23-lopes/crwn-clothing)                       |         |
+
+ 
